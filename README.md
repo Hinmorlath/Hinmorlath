@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Hinmorlath
+# 👋 ¡Hola! Soy José Manuel Polo F.
 
 Soy **Desarrollador Web Front-End** recién egresado de la **Universidad Tecnológica de Tlaxcala** en la ingeniería de Gestión y Desarrollo de Software.  
 Me apasiona construir interfaces limpias y funcionales, mientras sigo fortaleciendo mis habilidades en **HTML, CSS y JavaScript**.  
